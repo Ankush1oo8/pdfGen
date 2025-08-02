@@ -74,10 +74,6 @@ styles/          # Global styles
 app/             # Next.js app directory (pages, layouts)
 ```
 
-## License
-
-MIT
-
 ---
 
 
