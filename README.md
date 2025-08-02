@@ -51,9 +51,11 @@ npm run build
 
 <!-- Add screenshots of the form and preview pages below -->
 
-![Form Page](screenshots/form-page.png)
+<img width="1325" height="619" alt="2025-08-02 16 28 49 localhost 36f58919dd31" src="https://github.com/user-attachments/assets/a7c555c6-313c-44fa-8c2b-f73089d74f9b" />
 
-![Preview Page](screenshots/preview-page.png)
+
+<img width="1325" height="619" alt="2025-08-02 16 29 09 localhost d34e0e709f05" src="https://github.com/user-attachments/assets/9405d695-9d4b-450c-91e7-a1e1df0bf541" />
+
 
 ## Technologies Used
 
